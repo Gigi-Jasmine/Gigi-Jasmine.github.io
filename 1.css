@@ -30,7 +30,7 @@ h2{
 }
 div.background{
   width: 1300px;
-  background:url('image1.jpg')no-repeat;
+  background:url('image1.jpg') no-repeat;
 }
 div.transbox{
   width:600px;
